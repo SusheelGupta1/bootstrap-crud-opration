@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "ptitle": "Susheel Properties",
+      "pprice": "typicode",
+      "plocation":"Mumbai",
+      "pdetails":"plot Available for 2 room set"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "Susheel Gupta",
+      "email": "sush@gmail.com",
+      "mobile":"8108699385",
+      "password":"123456"
+    }
+  ],
+  "login": {
+    "email": "sush@gmail.com",
+    "password":"123456"
+  }
+}
